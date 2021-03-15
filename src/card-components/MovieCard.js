@@ -46,3 +46,5 @@ MovieCard.defaultProps = {
   genres: ['No Genre(s) Found'],
   poster: 'default'
 }
+
+// is this working
